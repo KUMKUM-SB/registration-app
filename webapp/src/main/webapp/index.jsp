@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to My small demo session on CI/CD</h1>
+    <h1>Welcome to my new Demo Session</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
